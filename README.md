@@ -1,6 +1,45 @@
 # 100-questions-to-pm
 自己关于PM的100个问题
 
+## TOC
+- [100-questions-to-pm](#100-questions-to-pm)
+  - [TOC](#toc)
+  - [2/100 PM的权力有哪些？](#2100-pm%e7%9a%84%e6%9d%83%e5%8a%9b%e6%9c%89%e5%93%aa%e4%ba%9b)
+      - [权力](#%e6%9d%83%e5%8a%9b)
+      - [PM的权力](#pm%e7%9a%84%e6%9d%83%e5%8a%9b)
+      - [参考](#%e5%8f%82%e8%80%83)
+  - [1/100 PM的定义是什么？](#1100-pm%e7%9a%84%e5%ae%9a%e4%b9%89%e6%98%af%e4%bb%80%e4%b9%88)
+      - [Project Manager(项目经理)](#project-manager%e9%a1%b9%e7%9b%ae%e7%bb%8f%e7%90%86)
+      - [Prduct Manager(产品经理)](#prduct-manager%e4%ba%a7%e5%93%81%e7%bb%8f%e7%90%86)
+      - [回答](#%e5%9b%9e%e7%ad%94)
+
+## 2/100 PM的权力有哪些？
+
+#### 权力
+
+
+`the ability or capacity to do something or act in a particular way.`
+
+`影响、甚至控制别人行为的能力。`
+
+从定义来看，权力是一个很有诱惑的东西，它是一个双刃剑。
+
+
+#### PM的权力
+
+常见的PM的权力有：
+- 公司：`团队成员KPI定级`/`团队成员调薪确定`
+- 项目：`项目资金支配`/`项目交付进度及风险把控`
+- 成员：`角色任命`/`角色去留`
+- 客户：`客户关系管理`/`公司形象维护`
+
+> 个人认为：权力只是在最后一步拿出来的工具，不要一直想着自己手中有把`武器`。
+
+
+#### 参考
+
+- [权限-Wiki](https://zh.wikipedia.org/wiki/%E6%AC%8A%E5%8A%9B)
+
 ## 1/100 PM的定义是什么？
 
 在IT行业，关于`PM`有两种划分：Prduct Manager(产品经理)和Project Manager(项目经理)。
@@ -38,3 +77,4 @@ A product manager is a professional role that is responsible for the development
 #### 回答
 
 ProductManager和ProjectManager的工作存在一些重叠，或者有的公司是同一个角色。但其实两者是有差异的，Product更偏重于产品的特性/玩法等，Project则注重项目为单位的完成进度/交付质量/客户满意度等信息。
+所以后续关于此文中的PM均是指`ProjectManager`.
